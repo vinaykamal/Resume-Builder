@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+button.save{
+  background-color: purple;
+  color: white;
+  border-radius: 5px;
+  border-width: 1px;
+  height: 40px;
+  width: 400px;
+}
